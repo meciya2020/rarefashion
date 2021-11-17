@@ -23,5 +23,4 @@ include '../head/jackus.php';
 			}
 
 
-
 ?>
