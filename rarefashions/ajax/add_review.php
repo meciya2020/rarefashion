@@ -13,6 +13,8 @@ include '../head/jackus.php';
 						echo '1';
 						die;
 					}
+
+					
 			if($rating < 3){
 					$ticket_ref_no = supportTICKET_REFNOGENERATOR();
 					$arrFields=array('`ticket_ref_no`','`product_ID`','`ticket_name`','`ticket_email`','`ticket_type`','`ticket_discription`','`status`','`createdby`');
