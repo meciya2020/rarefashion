@@ -2,7 +2,7 @@
 extract($_REQUEST);
 include 'head/jackus.php'; 
 include 'shopfunction.php'; 
-include '___class__home.inc';
+include '___class__home.inc'; 
 //print_r($_SESSION); exit();
 //echo $sid;
 
